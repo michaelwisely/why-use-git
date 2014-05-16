@@ -19,3 +19,7 @@ Need to address
 - Storing pdfs
 - Converting legacy projects?
 - Running a private git server?
+
+Resources/Articles
+------------------
+- https://github.com/blog/1840-improving-github-for-science
