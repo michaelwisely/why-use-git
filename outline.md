@@ -24,6 +24,7 @@ Need to address
     - Or any other binary stuff. Word documents, graphics, and whatnot
 - Converting legacy projects?
 - Running a private git server?
+- Git for Windows/Mac (Github for X, tortoisegit, ??) Dr. Sedigh may like something like tortoisegit that has explorer.exe integration like dropbox
 
 Resources/Articles
 ------------------
